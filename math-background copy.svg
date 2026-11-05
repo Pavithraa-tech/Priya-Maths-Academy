@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#f5f3df"/>
+  <g fill="none" stroke="#9a8290" stroke-width="2" opacity="0.10">
+    <path d="M80 92h130M145 60v64M660 100l58 0-29-50z"/>
+    <circle cx="770" cy="250" r="42"/><path d="M728 250h84M770 208v84"/>
+    <path d="M110 390h75v55h-75zM110 390l75 55M185 390l-75 55"/>
+    <path d="M520 470c36-48 72-48 108 0"/>
+  </g>
+  <g fill="#8b6f7d" opacity="0.12" font-family="Georgia,serif">
+    <text x="270" y="110" font-size="28">x² + y² = r²</text>
+    <text x="620" y="390" font-size="31">π</text>
+    <text x="330" y="300" font-size="24">a² + b² = c²</text>
+    <text x="80" y="255" font-size="26">∑</text>
+    <text x="435" y="530" font-size="22">f(x) = mx + b</text>
+    <text x="790" y="520" font-size="24">√x</text>
+  </g>
+  <g fill="#b99fad" opacity="0.10">
+    <circle cx="360" cy="170" r="4"/><circle cx="390" cy="170" r="4"/><circle cx="420" cy="170" r="4"/>
+    <circle cx="270" cy="450" r="4"/><circle cx="300" cy="450" r="4"/><circle cx="330" cy="450" r="4"/>
+    <circle cx="590" cy="190" r="4"/><circle cx="620" cy="190" r="4"/><circle cx="650" cy="190" r="4"/>
+  </g>
+</svg>
